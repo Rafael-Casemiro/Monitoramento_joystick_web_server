@@ -58,7 +58,7 @@ git clone https://github.com/Rafael-Casemiro/Monitoramento_joystick_web_server.g
 2. **Navegar até o diretório do projeto**
 
 ```bash
-cd Servidor_Joystick_Web
+cd Monitoramento_joystick_web_server
 ```
 
 3. **Criar e entrar na pasta de build**
